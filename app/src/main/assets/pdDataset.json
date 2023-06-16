@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "เนื้อสันใน",
+    "img": "https://www.pitchameat.com/wp-content/uploads/2018/07/Pork-Shabu-slide.jpg",
+    "type_id": 1
+
+  },
+  {
+    "product_id": 2,
+    "product_name": "เนื้อสันนอก",
+    "img": "https://www.pitchameat.com/wp-content/uploads/2018/07/Pork-Shabu-slide.jpg",
+    "type_id": 1
+
+  },
+  {
+    "product_id": 9,
+    "product_name": "ผักกาดขาว",
+    "img": "https://img.wongnai.com/p/1920x0/2019/01/31/1a3ad9314c03446ca9ac0f14ef57eaa0.jpg",
+    "type_id": 2
+
+  }
+]
